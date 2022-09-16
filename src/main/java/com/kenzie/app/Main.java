@@ -3,11 +3,7 @@ package com.kenzie.app;
 // import necessary libraries
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.kenzie.app.data.Clues;
 import com.kenzie.app.data.CluesDTO;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 

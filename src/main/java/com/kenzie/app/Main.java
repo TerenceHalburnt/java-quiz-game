@@ -32,9 +32,9 @@ public class Main {
             String answer = String.valueOf(cluesObj.getClues().get(i).getAnswer());
             String category = String.valueOf(cluesObj.getClues().get(i).getCategory());
 
-            for (i = 0; i < cluesObj.getClues().size(); i++) {
-
-
+//            for (i = 0; i < cluesObj.getClues().size(); i++) {
+//
+//
 //                if (cluesObj.getClues().size() > 1) {
 //
 //
@@ -44,8 +44,8 @@ public class Main {
 //                    System.out.println(cluesObj.getClues().get(i).getCategory());
 //
 //                }
-
-            }
+//
+//            }
 
 
             //Declare variables
